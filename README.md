@@ -21,9 +21,7 @@ Fizz
 Fizz
 Buzz
 
-
-
-## Solution Approach
+## The Solution Approach
 
 The solution uses:
 - A for loop to iterate through numbers from 1 to 100.
@@ -34,4 +32,4 @@ The solution uses:
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/KyathiY/fizzbuzz_Task
