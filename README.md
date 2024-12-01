@@ -20,11 +20,12 @@ Fizz
 8
 Fizz
 Buzz
+11
 
 ## The Solution Approach
 
 The solution uses:
-- A for loop to iterate through numbers from 1 to 100.
+- A 'for' loop to iterate through numbers from 1 to 100.
 - Conditional checks to determine whether a number is divisible by 3, 5, or both.
 - Prints the appropriate output for each case.
 

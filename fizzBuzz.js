@@ -5,7 +5,6 @@
  * - Print "FizzBuzz" for multiples of both 3 and 5.
  */
 function fizzBuzz() {
-
     for (let i = 1; i <= 100; i++) {
         if (i % 3 === 0 && i % 5 === 0) {
             console.log("FizzBuzz");
@@ -20,5 +19,5 @@ function fizzBuzz() {
     }
 }
 
-// Execute the function last
+// Execute the function 
 fizzBuzz();
